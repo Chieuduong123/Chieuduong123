@@ -20,10 +20,10 @@
  ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const thai = {
+const chieuDuong = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  code: [Javascript, Typescript, HTML, CSS, PHP, Python, Java],
+  tools: [Redux, Node, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
                         coorganizer: "AfroPython",
@@ -39,14 +39,11 @@ const thai = {
 ---
 
 <div align="center"> 
-  <a href="mailto:llemanhbin@gmail.com" target="_blank">
+  <a href="mailto:duongchieu7202@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/le-manh-bin/" target="_blank">
+  <a href="https://www.linkedin.com/in/ng%C3%B4-th%E1%BB%8B-%C3%A1nh-d%C6%B0%C6%A1ng-a01713218/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://manhbin-portfolio.vercel.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
