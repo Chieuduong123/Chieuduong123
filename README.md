@@ -48,7 +48,7 @@ const chieuDuong = {
 </div>
 
 <p align="center">
-  <img src="https://github.com/thanhtin4401/thanhtin4401/assets/85281544/a65ececb-7042-4a69-b9a6-71381c48b003" alt="giphy" />
+  <img src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" alt="giphy" />
 </p>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
